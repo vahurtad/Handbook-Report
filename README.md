@@ -1,4 +1,4 @@
-# Project Title
+# HandBook Report
 This project is the final website for [The Leadership Conference on Civil and Human Rights](https://policing.civilrights.org) and was made using Worpdress with [GeneratePress Theme](https://github.com/tomusborne/generatepress). 
 
 The final website can be seen here: [Handbook Report](https://policing.civilrights.org/report/) 
